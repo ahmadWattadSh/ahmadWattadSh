@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmad Wattad
-- 👀 I’m interested in Hi-Tech
+- 👀 I’m interested in finding work at Hi-Tech companies
 - 🌱 I Finished learning full-Stack-Java.
 
 <!---
